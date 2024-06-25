@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Disease Prediction System</h1>
+        <form action="/" method="post">
+            <label for="symptoms">Enter Symptoms (comma-separated):</label><br><br>
+            <input type="text" id="symptoms" name="symptoms" required><br><br>
+            <input type="submit" value="Predict">
+        </form>
+    </div>
+</body>
+</html>
