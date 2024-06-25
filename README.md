@@ -75,10 +75,9 @@ This system can be used by healthcare providers to assist in the early detection
 
 ### How to Run the Project 🚀
 
-1. Clone the repository: `(https://github.com/yourusername/disease-prediction-system.git)`
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Flask application with `python app.py`.
-4. Open the generated URL in your web browser to use the Disease Prediction System.
+1. Clone the repository: (https://github.com/Elangovan0101/disease-prediction.git)
+2. Run the Flask application with `python app.py`.
+3. Open the generated URL in your web browser to use the Disease Prediction System.
 
 ### License 📜
 This project is licensed under the MIT License.
